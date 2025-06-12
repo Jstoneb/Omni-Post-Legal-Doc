@@ -1,0 +1,64 @@
+**Privacy Policy for Omni Post**
+
+*Last Updated: June 12, 2025*
+
+**1. Introduction**
+Welcome to Omni Post. This Privacy Policy explains how Omni Post, Inc. ("Omni Post", "we", "us", or "our") collects, uses, discloses, and protects information obtained through our Omni Post application and related services (collectively, the "Service"). Your privacy is important to us; please read this policy carefully.
+
+**2. Information We Collect**
+2.1. **User-Provided Content**: When you use the Service, you provide us with the text, images, videos, and other media you upload for posting to social media platforms ("User Content"). We store and have access to this User Content to facilitate the Service.
+
+2.2. **Account Information**: To use Omni Post, you may be required to create an account or link existing social media accounts. We collect identifiers such as your name, email address, profile picture, and access tokens or API keys for third-party platforms.
+
+2.3. **Usage Data**: We automatically collect information about how you access and use the Service, including your IP address, device type, browser type, operating system, pages visited, timestamps, and actions taken ("Usage Data").
+
+2.4. **Log Data**: We maintain server logs that record all requests to our servers, which may include User Content metadata, error logs, and diagnostic information.
+
+**3. How We Use Your Information**
+3.1. **Service Delivery**: We use your User Content and account credentials solely to post your content to the selected social media platforms on your behalf.
+
+3.2. **Improvement of Service**: We analyze Usage Data and Log Data to monitor performance, diagnose technical issues, and improve features and user experience.
+
+3.3. **Communications**: We may use your email address to send administrative messages, updates, security alerts, and promotional materials (with your consent where required by law).
+
+3.4. **Security and Compliance**: We use collected data to detect and prevent fraudulent or unauthorized activity and to comply with legal obligations.
+
+**4. Data Storage and Security**
+4.1. **Storage**: We store User Content, account information, and Usage Data on secure servers located in the United States.
+
+4.2. **Security Measures**: We implement industry-standard technical and organizational measures to protect your information against unauthorized access, alteration, disclosure, or destruction, including encryption in transit and at rest, access controls, and regular security audits.
+
+4.3. **Retention**: We retain your User Content and account data for as long as necessary to provide the Service, comply with legal obligations, resolve disputes, and enforce our policies.
+
+**5. Disclosure of Information**
+5.1. **Third-Party Platforms**: We transmit your User Content and any associated metadata to the social media platforms you authorize. These platforms’ own privacy policies govern their handling of your content.
+
+5.2. **Service Providers**: We may share data with vendors and service providers who perform functions on our behalf (e.g., hosting, analytics, payment processing), subject to confidentiality obligations.
+
+5.3. **Legal Requirements**: We may disclose your information if required by law or in response to valid legal requests, such as subpoenas or court orders, or to protect our rights, property, or safety.
+
+**6. Third-Party Services and Links**
+Our Service may contain links to third-party websites or services whose privacy practices differ from ours. We encourage you to read their privacy notices before providing any personal information.
+
+**7. Your Rights and Choices**
+7.1. **Access and Correction**: You may access, update, or correct your account information and User Content through the Service interface.
+
+7.2. **Deletion**: You may delete your account at any time, which will remove your account credentials and associated data. Copies of your User Content may persist for a period of time in backup systems or logs.
+
+7.3. **Data Portability**: Where required by law, you may request a copy of your personal data in a structured, commonly used, machine-readable format.
+
+7.4. **Opt-Out**: You may opt out of promotional communications by following the unsubscribe instructions in our emails or contacting us directly.
+
+**8. Children’s Privacy**
+Omni Post is not intended for individuals under 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected data from a child under 13, we will take steps to delete it promptly.
+
+**9. International Users**
+Your information may be transferred to, stored, and processed in the United States. By using the Service, you consent to such transfer and processing in accordance with this Privacy Policy.
+
+**10. Changes to This Privacy Policy**
+We may update this Privacy Policy from time to time. When we do, we will revise the "Last Updated" date at the top. Your continued use of the Service after changes constitutes acceptance of the revised terms.
+
+**11. Contact Us**
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+
+Omni Post
